@@ -1,2 +1,2 @@
 # little_hw
-test
+Small Git tutorial for homework
