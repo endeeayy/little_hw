@@ -13,3 +13,15 @@ Project
 * Khách hàng có thể thanh toán nhiều lần cho đến ngày trả phòng.
 * Mỗi lần thanh toán, lễ tân sẽ in hóa đơn cho lần thanh toán đó bao gồm các thông tin: họ tên và địa chỉ khách hàng, số phòng, ngày đến, ngày đi, giá phòng, các dịch vụ đi kèm     (mỗi dịch vụ bao gồm tên dịch vụ, đơn vị tính, đơn giá, tổng tiền), số tiền thanh toán.
 * Khách hàng có thể hủy đặt phòng (miên phí) nếu hủy trước ngày đến. Nếu khách hàng hủy sau ngày đặt thì khách hàng bị lưu vào danh sách đen và có thể bị từ chối đặt phòng trong     các lần tiếp theo.
+
+## Business Objectives: ##
+* Goal 1: Xây dựng trang web quản lý hệ thống khách sạn, cơ sở dữ liệu có chứa thông tin của khách sạn, nhân viên và chức vụ của họ
+* Goal 2 : Phân quyền cho nhân viên bán hàng, hoàn thành yêu cầu tìm phòng trống, đặt/hủy phòng
+* Goal 3: Phân quyền đối với nhân viến bán hàng; hoàn thành yêu cầu checkin/checkout thanh toán
+* Goal 4: Phân quyền đối với quản lý; hoàn thành yêu cầu tạo/xem báo cáo, CRUD thông tin phòng
+* Người quản lý có thể kế thừ toàn bộ các tính năng của nhân viên bán hàng và nhân viên tiếp tân
+* Nhân viên tiếp tân được hưởng các tính năng của người bán hàng
+* Đáp ứng đầy đủ các yêu cầu
+* Không để chậm tiến độ, hạn trong 2 tháng phải hoàn thành
+* Đảm bảo bảo mật và độ chính xác của thông tin
+* Liên tục cập nhật cho phù hợp môi trường áp dụng
