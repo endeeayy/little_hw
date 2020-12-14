@@ -1,7 +1,9 @@
-# Smart Hotel
+# Ngô Duy Anh - 18001093 #
+
+## Smart Hotel ##
 Project
 
-## Goals: ##
+### Goals: ###
 *  Phần mềm dạng ứng dụng cho máy tính cá nhân, chỉ có nhân viên lễ tân, nhân viên bán hàng, quản lí khách sạn được sử dụng
 * Nhân viên lễ tân có thể tìm phòng trống theo yêu cầu trực tiếp của khách, checkin cho khách đã đặt phòng hoặc đặt phòng trực tiếp, checkout cho khách và in hóa đơn thanh toán     cho khách
 * Nhân viên bán hàng có thể tìm phòng trống và đặt phòng theo yêu cầu của khách.
@@ -14,7 +16,7 @@ Project
 * Mỗi lần thanh toán, lễ tân sẽ in hóa đơn cho lần thanh toán đó bao gồm các thông tin: họ tên và địa chỉ khách hàng, số phòng, ngày đến, ngày đi, giá phòng, các dịch vụ đi kèm     (mỗi dịch vụ bao gồm tên dịch vụ, đơn vị tính, đơn giá, tổng tiền), số tiền thanh toán.
 * Khách hàng có thể hủy đặt phòng (miên phí) nếu hủy trước ngày đến. Nếu khách hàng hủy sau ngày đặt thì khách hàng bị lưu vào danh sách đen và có thể bị từ chối đặt phòng trong     các lần tiếp theo.
 
-## Business Objectives: ##
+### Business Objectives: ###
 * Goal 1: Xây dựng trang web quản lý hệ thống khách sạn, cơ sở dữ liệu có chứa thông tin của khách sạn, nhân viên và chức vụ của họ
 * Goal 2 : Phân quyền cho nhân viên bán hàng, hoàn thành yêu cầu tìm phòng trống, đặt/hủy phòng
 * Goal 3: Phân quyền đối với nhân viến bán hàng; hoàn thành yêu cầu checkin/checkout thanh toán
